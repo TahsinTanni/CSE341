@@ -1,4 +1,4 @@
-# CSE341 project
+# Voting system interface
 Voting system interface. A simple and secure voting system implemented to facilitate user authentication, candidate selection, and vote management.
 Features:
 
